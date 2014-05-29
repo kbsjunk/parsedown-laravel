@@ -1,5 +1,5 @@
 {
-    "name": "maxhoffmann/parsedown-laravel",
+    "name": "kitbs/parsedown-laravel",
     "description": "A parsedown (markdown) wrapper for Laravel ",
     "keywords": ["laravel", "laravel 4", "parsedown", "markdown", "php"],
     "homepage": "https://github.com/maxhoffmann/parsedown-laravel",
@@ -8,6 +8,10 @@
         {
             "name": "Maximilian Hoffmann",
             "email": "max@maximilianhoffmann.com"
+        },
+        {
+            "name": "Kit BS",
+            "email": "mail@kitbs.com"
         }
     ],
     "require": {
