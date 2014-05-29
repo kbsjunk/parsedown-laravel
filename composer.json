@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "erusev/parsedown-extra": "*"
+        "erusev/parsedown-extra": "dev-master"
     },
     "autoload": {
         "psr-0": {
