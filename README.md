@@ -1,9 +1,10 @@
-Parsedown for Laravel
+Parsedown Extra for Laravel
 =====================
 
-A Parsedown wrapper for Laravel to compile markdown to HTML.
+A Parsedown Extra wrapper for Laravel to compile markdown to HTML.
 
 [Parsedown](http://parsedown.org/) is fast and supports GitHub flavored markdown.
+[Parsedown Extra](https://github.com/erusev/parsedown-extra) adds support for [Markdown Extra](http://en.wikipedia.org/wiki/Markdown_Extra).
 
 Installation
 ------------
